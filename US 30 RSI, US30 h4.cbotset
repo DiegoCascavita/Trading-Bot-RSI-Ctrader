@@ -1,0 +1,11 @@
+﻿{
+  "Chart": {
+    "Symbol": "US30",
+    "Period": "h4"
+  },
+  "Parameters": {
+    "Quantity": "9.9",
+    "Source": "Close",
+    "Periods": "14"
+  }
+}
